@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Titan Kernel '$(cat ../titan_kernel/release)' for Zenfone Max Pro M2 by @titanotom
+kernel.string=tiTan Kernel for Zenfone Max Pro M2 by @titanotom
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
