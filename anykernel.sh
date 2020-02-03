@@ -7,6 +7,7 @@ properties() { '
 kernel.string=tiTan Kernel for Zenfone Max Pro M2 by @titanotom
 do.devicecheck=1
 do.modules=1
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=X01BD
